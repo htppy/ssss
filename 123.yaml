@@ -1,7 +1,7 @@
 name: FomoWell
 
 description: >
-    StratrosAI is a decentralized AI operating system specifically built to support and scale complex AI workloads on the blockchain. By combining decentralized data availability (DA), decentralized storage, cross-chain interoperability, and innovative restaking functionality, StratrosAI is pioneering the next generation of decentralized AI services. Our platform creates a seamless environment for AI projects to thrive, driving innovation and optimizing asset utility and rewards within the ecosystem.
+    FomoWell is a fair launch platform for Web3 projects, currently being built on the ICP blockchain.
 
 logo: logo.png
 
@@ -11,11 +11,11 @@ NnsProposal:
     title: "NNS Proposal to create an SNS named 'FomoWell'"
     url: https://forum.dfinity.org/t/upcoming-stratrosai-dao-sns-decentralization-sale/37447
 
-    summary:  |
+    summary:  
       **Distribution**
       * Total token supply -  1 Billion
-      * Allocated to treasury -  73%
-      * Allocated to decentralization sale -  15%
+      * Allocated to treasury -  68%
+      * Allocated to decentralization sale -  20%
       * Allocated to developer neurons -  12%
       * The Ledger Transaction fee is 0.001 WELL
 
@@ -26,9 +26,9 @@ NnsProposal:
       * Max to be raised -  100,000 ICP
 
       **Learn more**
-      * [Whitepaper](https://stratros.ai/StratrosAI.pdf )
-      * [Github](https://github.com/Stratros-AI )
-      * [Website](https://stratros.ai/ )
+      * [Whitepaper]( )
+      * [Github]()
+      * [Website](https://fomowell.com/ )
 
 fallback_controller_principals:
     - 4xi2o-hiaaa-aaaam-acs6q-cai
@@ -78,57 +78,100 @@ Voting:
 Distribution:
     Neurons:
 
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+        - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
+          stake: "7_500_000 tokens"
           memo: 0
           dissolve_delay: "1 months"
           vesting_period: "6 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+        - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
+          stake: "7_500_000 tokens"
           memo: 1
           dissolve_delay: "1 months"
           vesting_period: "9 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+        - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
+          stake: "7_500_000 tokens"
           memo: 2
           dissolve_delay: "1 months"
           vesting_period: "12 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+        - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
+          stake: "7_500_000 tokens"
           memo: 3
           dissolve_delay: "1 months"
           vesting_period: "15 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+        - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
+          stake: "7_500_000 tokens"
           memo: 4
           dissolve_delay: "1 months"
           vesting_period: "18 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+        - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
+          stake: "7_500_000 tokens"
           memo: 5
           dissolve_delay: "1 months"
           vesting_period: "21 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+        - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
+          stake: "7_500_000 tokens"
           memo: 6
           dissolve_delay: "0 months"
           vesting_period: "24 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "14_999_500 tokens"
+        - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
+          stake: "7_500_000 tokens"
           memo: 7
           dissolve_delay: "0 months"
           vesting_period: "27 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "500 tokens"
+
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
+          stake: "7_500_000 tokens"
           memo: 8
+          dissolve_delay: "1 months"
+          vesting_period: "6 months"
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
+          stake: "7_500_000 tokens"
+          memo: 9
+          dissolve_delay: "1 months"
+          vesting_period: "9 months"
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
+          stake: "7_500_000 tokens"
+          memo: 10
+          dissolve_delay: "1 months"
+          vesting_period: "12 months"
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
+          stake: "7_500_000 tokens"
+          memo: 11
+          dissolve_delay: "1 months"
+          vesting_period: "15 months"
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
+          stake: "7_500_000 tokens"
+          memo: 12
+          dissolve_delay: "1 months"
+          vesting_period: "18 months"
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
+          stake: "7_500_000 tokens"
+          memo: 13
+          dissolve_delay: "1 months"
+          vesting_period: "21 months"
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
+          stake: "7_500_000 tokens"
+          memo: 14
+          dissolve_delay: "0 months"
+          vesting_period: "24 months"
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
+          stake: "7_499_500 tokens"
+          memo: 15
+          dissolve_delay: "0 months"
+          vesting_period: "27 months"
+
+          
+        - principal: "address"
+          stake: "500 tokens"
+          memo: 16
           dissolve_delay: "0 months"
           vesting_period: "0 months"
         
 
           
     InitialBalances:
-        governance: 730_000_000 tokens
-        swap: 150_000_000 tokens
+        governance: 680_000_000 tokens
+        swap: 200_000_000 tokens
 
     total: 1_000_000_000 tokens
 
