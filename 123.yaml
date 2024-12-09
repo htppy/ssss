@@ -1,11 +1,11 @@
-name: StratrosAI
+name: FomoWell
 
 description: >
     StratrosAI is a decentralized AI operating system specifically built to support and scale complex AI workloads on the blockchain. By combining decentralized data availability (DA), decentralized storage, cross-chain interoperability, and innovative restaking functionality, StratrosAI is pioneering the next generation of decentralized AI services. Our platform creates a seamless environment for AI projects to thrive, driving innovation and optimizing asset utility and rewards within the ecosystem.
 
 logo: logo.png
 
-url: https://stratros.ai/
+url: https://fomowell.com/
 
 NnsProposal:
     title: "NNS Proposal to create an SNS named 'StratrosAI'"
@@ -17,7 +17,7 @@ NnsProposal:
       * Allocated to treasury -  78%
       * Allocated to decentralization sale -  12%
       * Allocated to developer neurons -  10%
-      * The Ledger Transaction fee is 0.0001 STOS
+      * The Ledger Transaction fee is 0.0001 WELL
 
       **Decentralization Sale**
       * Min participation - 1 ICP
@@ -63,12 +63,12 @@ Voting:
 
     MaximumVotingPowerBonuses:
         DissolveDelay:
-            duration: 24 months
+            duration: 36 months
             bonus: 100%
 
         Age:
             duration: 12 months
-            bonus: 50%
+            bonus: 25%
 
     RewardRate:
         initial: 1%
