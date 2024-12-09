@@ -14,16 +14,16 @@ NnsProposal:
     summary:  |
       **Distribution**
       * Total token supply -  1 Billion
-      * Allocated to treasury -  78%
-      * Allocated to decentralization sale -  12%
-      * Allocated to developer neurons -  10%
-      * The Ledger Transaction fee is 0.0001 WELL
+      * Allocated to treasury -  73%
+      * Allocated to decentralization sale -  15%
+      * Allocated to developer neurons -  12%
+      * The Ledger Transaction fee is 0.001 WELL
 
       **Decentralization Sale**
       * Min participation - 1 ICP
       * Min participants -  100
       * Min to be raised -  20,000 ICP
-      * Max to be raised -  150,000 ICP
+      * Max to be raised -  100,000 ICP
 
       **Learn more**
       * [Whitepaper](https://stratros.ai/StratrosAI.pdf )
