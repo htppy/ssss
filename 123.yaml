@@ -79,50 +79,41 @@ Distribution:
     Neurons:
 
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+          stake: "20_000_000 tokens"
           memo: 0
           dissolve_delay: "1 months"
           vesting_period: "6 months"
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+          stake: "20_000_000 tokens"
           memo: 1
           dissolve_delay: "1 months"
           vesting_period: "9 months"
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+          stake: "20_000_000 tokens"
           memo: 2
           dissolve_delay: "1 months"
           vesting_period: "12 months"
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+          stake: "20_000_000 tokens"
           memo: 3
           dissolve_delay: "1 months"
           vesting_period: "15 months"
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+          stake: "20_000_000 tokens"
           memo: 4
           dissolve_delay: "1 months"
           vesting_period: "18 months"
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+          stake: "19_999_500 tokens"
           memo: 5
           dissolve_delay: "1 months"
           vesting_period: "21 months"
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "15_000_000 tokens"
+          stake: "500 tokens"
           memo: 6
           dissolve_delay: "0 months"
-          vesting_period: "24 months"
-        - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
-          stake: "14_999_500 tokens"
-          memo: 7
-          dissolve_delay: "0 months"
-          vesting_period: "27 months"       
-        - principal: "akuw5-p4lnw-mvpxz-srfw2-chbg2-uh7i3-j2qn7-gf5dc-onz3z-hm4pc-fae"
-          stake: "500 tokens"
-          memo: 8
-          dissolve_delay: "0 months"
           vesting_period: "0 months"
+        
 
           
     InitialBalances:
@@ -134,7 +125,7 @@ Distribution:
 Swap:
     minimum_participants: 100
 
-    minimum_direct_participation_icp: 20_000 tokens
+    minimum_direct_participation_icp: 100 tokens
 
     maximum_direct_participation_icp: 100_000 tokens
 
