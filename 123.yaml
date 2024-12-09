@@ -8,7 +8,7 @@ logo: logo.png
 url: https://fomowell.com/
 
 NnsProposal:
-    title: "NNS Proposal to create an SNS named 'StratrosAI'"
+    title: "NNS Proposal to create an SNS named 'FomoWell'"
     url: https://forum.dfinity.org/t/upcoming-stratrosai-dao-sns-decentralization-sale/37447
 
     summary:  |
@@ -136,7 +136,7 @@ Swap:
 
     minimum_direct_participation_icp: 20_000 tokens
 
-    maximum_direct_participation_icp: 150_000 tokens
+    maximum_direct_participation_icp: 100_000 tokens
 
     minimum_participant_icp: 1 tokens
 
