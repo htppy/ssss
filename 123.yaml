@@ -62,12 +62,12 @@ Voting:
 
     MaximumVotingPowerBonuses:
         DissolveDelay:
-            duration: 36 months
+            duration: 24 months
             bonus: 100%
 
         Age:
             duration: 12 months
-            bonus: 25%
+            bonus: 50%
 
     RewardRate:
         initial: 1%
