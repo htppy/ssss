@@ -111,12 +111,12 @@ Distribution:
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
           stake: "15_000_000 tokens"
           memo: 6
-          dissolve_delay: "1 months"
+          dissolve_delay: "0 months"
           vesting_period: "24 months"
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
           stake: "14_999_500 tokens"
           memo: 7
-          dissolve_delay: "1 months"
+          dissolve_delay: "0 months"
           vesting_period: "27 months"
         - principal: "wgljx-5ng3f-o6yse-7woqx-nbk4x-5fdtv-4kzzy-bhd3s-yhn52-oehmy-mae"
           stake: "500 tokens"
