@@ -118,7 +118,6 @@ Distribution:
           memo: 7
           dissolve_delay: "0 months"
           vesting_period: "27 months"
-
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
           stake: "7_500_000 tokens"
           memo: 8
@@ -159,9 +158,7 @@ Distribution:
           memo: 15
           dissolve_delay: "0 months"
           vesting_period: "27 months"
-
-          
-        - principal: "address"
+        - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
           stake: "500 tokens"
           memo: 16
           dissolve_delay: "0 months"
