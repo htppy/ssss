@@ -1,7 +1,7 @@
 name: FomoWell
 
 description: >
-    FomoWell is a fair launch platform for Web3 projects, currently being built on the ICP blockchain.
+    FomoWell is a fair launch platform for Web3 projects on the ICP blockchain.
 
 logo: logo.png
 
@@ -25,7 +25,7 @@ NnsProposal:
 
       **Learn more**
       * [Whitepaper](https://fomowell.com/)
-      * [Github](https://fomowell.com/)
+      * [Github](https://github.com/NovaICLabs/fomowell_app)
       * [Website](https://fomowell.com/ )
 
 fallback_controller_principals:
