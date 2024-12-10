@@ -11,8 +11,13 @@ NnsProposal:
     title: "NNS Proposal to create an SNS named 'FomoWell'"
     url: https://forum.dfinity.org/t/upcoming-stratrosai-dao-sns-decentralization-sale/37447
 
-    summary:  
-      **Decentralization Sale**
+    summary:  |
+      **Distribution**
+      * Total token supply -  1 Billion
+      * Allocated to treasury -  68%
+      * Allocated to decentralization sale -  20%
+      * Allocated to developer neurons -  12%
+      * The Ledger Transaction fee is 0.001 WELL
       * Min participation - 1 ICP
       * Min participants -  100
       * Min to be raised -  20,000 ICP
