@@ -14,10 +14,12 @@ NnsProposal:
     summary:  |
       **Distribution**
       * Total token supply -  1 Billion
-      * Allocated to treasury -  68%
+      * Allocated to treasury -  65%
       * Allocated to decentralization sale -  20%
-      * Allocated to developer neurons -  12%
+      * Allocated to developer neurons -  15%
       * The Ledger Transaction fee is 0.001 WELL
+      
+      **Decentralization SWAP**
       * Min participation - 1 ICP
       * Min participants -  100
       * Min to be raised -  20,000 ICP
@@ -76,82 +78,82 @@ Distribution:
     Neurons:
 
         - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 0
           dissolve_delay: "1 months"
           vesting_period: "6 months"
         - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 1
           dissolve_delay: "1 months"
           vesting_period: "9 months"
         - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 2
           dissolve_delay: "1 months"
           vesting_period: "12 months"
         - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 3
           dissolve_delay: "1 months"
           vesting_period: "15 months"
         - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 4
           dissolve_delay: "1 months"
           vesting_period: "18 months"
         - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 5
           dissolve_delay: "1 months"
           vesting_period: "21 months"
         - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 6
           dissolve_delay: "0 months"
           vesting_period: "24 months"
         - principal: "esk2o-lfiq4-c7d7i-grp7s-2mvvt-nhikc-qejqg-3vjtc-4occv-itecx-5ae"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 7
           dissolve_delay: "0 months"
           vesting_period: "27 months"
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 8
           dissolve_delay: "1 months"
           vesting_period: "6 months"
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 9
           dissolve_delay: "1 months"
           vesting_period: "9 months"
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 10
           dissolve_delay: "1 months"
           vesting_period: "12 months"
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 11
           dissolve_delay: "1 months"
           vesting_period: "15 months"
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 12
           dissolve_delay: "1 months"
           vesting_period: "18 months"
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 13
           dissolve_delay: "1 months"
           vesting_period: "21 months"
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
-          stake: "7_500_000 tokens"
+          stake: "9_374_500 tokens"
           memo: 14
           dissolve_delay: "0 months"
           vesting_period: "24 months"
         - principal: "ufggo-xjcjr-mms7v-ehy73-hmqmp-h7frp-wtvgc-jxinl-s3fcp-52ale-pqe"
-          stake: "7_499_500 tokens"
+          stake: "9_374_000 tokens"
           memo: 15
           dissolve_delay: "0 months"
           vesting_period: "27 months"
@@ -164,7 +166,7 @@ Distribution:
 
           
     InitialBalances:
-        governance: 680_000_000 tokens
+        governance: 650_000_000 tokens
         swap: 200_000_000 tokens
 
     total: 1_000_000_000 tokens
